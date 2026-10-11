@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">J.A.R.V.I.S.</string>
+    <string name="app_full_name">Just A Rather Very Intelligent System</string>
+    <string name="status_online">SYSTEM ONLINE</string>
+    <string name="status_listening">AWAITING VOCAL INPUT</string>
+    <string name="status_thinking">ANALYZING QUERY</string>
+    <string name="status_speaking">TRANSMITTING AUDIO</string>
+    <string name="status_executing">EXECUTING COMMAND</string>
+    <string name="status_idle">STANDBY MODE</string>
+    <string name="accessibility_service_description">Enables J.A.R.V.I.S. to assist with supported UI interactions and scrolling on user request.</string>
+</resources>
